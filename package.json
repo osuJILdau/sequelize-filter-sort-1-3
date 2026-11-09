@@ -1,0 +1,14 @@
+{
+  "name": "sequelize-filter-sort-1-3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Практическая работа 1.3: фильтрация и сортировка связанных данных",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
